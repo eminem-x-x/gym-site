@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exercises>
+
+    <exercise type="push">
+        <name>
+            <en>Push-up</en>
+            <ru>Отжимания</ru>
+        </name>
+        <desc>
+            <en>Standard chest and triceps exercise. Great for building upper body strength. Keep your body straight and lower yourself until your chest nearly touches the floor.</en>
+            <ru>Базовое упражнение на грудь и трицепс. Отлично подходит для развития силы верхней части тела. Держите тело прямо и опускайтесь, пока грудь почти не коснется пола.</ru>
+        </desc>
+        <image>images\Push\Push.jpg.webp</image>
+    </exercise>
+
+    <exercise type="push">
+        <name>
+            <en>Bench Press</en>
+            <ru>Жим штанги лёжа</ru>
+        </name>
+        <desc>
+            <en>Classic chest exercise using barbell. Lie on bench, lower bar to chest, then press up. Works pectorals, shoulders, and triceps.</en>
+            <ru>Классическое упражнение на грудь со штангой. Лягте на скамью, опустите штангу к груди, затем выжмите вверх. Работают грудные мышцы, плечи и трицепсы.</ru>
+        </desc>
+        <image>images\Push\Bench.webp</image>
+    </exercise>
+
+    <exercise type="push">
+        <name>
+            <en>Shoulder Press</en>
+            <ru>Армейский жим</ru>
+        </name>
+        <desc>
+            <en>Overhead pressing movement for shoulder development. Can be done with barbell or dumbbells while standing or seated.</en>
+            <ru>Жим над головой для развития плеч. Можно выполнять со штангой или гантелями стоя или сидя.</ru>
+        </desc>
+        <image>images\Push\shoulders.jpg</image>
+    </exercise>
+
+    <exercise type="push">
+        <name>
+            <en>Triceps Dips</en>
+            <ru>Отжимания на брусьях</ru>
+        </name>
+        <desc>
+            <en>Bodyweight exercise targeting triceps and chest. Use parallel bars or bench to lower and raise your body.</en>
+            <ru>Упражнение с весом тела на трицепсы и грудь. Используйте брусья или скамью для опускания и подъема тела.</ru>
+        </desc>
+        <image>images\Push\triceps.webp</image>
+    </exercise>
+
+    <exercise type="pull">
+        <name>
+            <en>Pull-up</en>
+            <ru>Подтягивания</ru>
+        </name>
+        <desc>
+            <en>Back and biceps bodyweight exercise. Fundamental for building a strong back. Pull yourself up until chin passes the bar.</en>
+            <ru>Упражнение на спину и бицепс. Фундаментальное для построения сильной спины. Подтягивайтесь до тех пор, пока подбородок не окажется над перекладиной.</ru>
+        </desc>
+        <image>images\pull\pullup.jpg.png</image>
+    </exercise>
+
+    <exercise type="pull">
+        <name>
+            <en>Barbell Row</en>
+            <ru>Тяга штанги в наклоне</ru>
+        </name>
+        <desc>
+            <en>Compound back exercise. Bend forward at hips, keep back straight, pull barbell to lower chest.</en>
+            <ru>Базовое упражнение для спины. Наклонитесь вперед в бедрах, держите спину прямо, тяните штангу к нижней части груди.</ru>
+        </desc>
+        <image>images\pull\Barbell.webp</image>
+    </exercise>
+
+    <exercise type="pull">
+        <name>
+            <en>Lat Pulldown</en>
+            <ru>Тяга верхнего блока</ru>
+        </name>
+        <desc>
+            <en>Machine exercise targeting latissimus dorsi. Pull bar down to upper chest while keeping torso stationary.</en>
+            <ru>Упражнение на тренажере для широчайших мышц спины. Тяните рукоять вниз к верхней части груди, сохраняя торс неподвижным.</ru>
+        </desc>
+        <image>images\pull\Lat Pulldown.webp</image>
+    </exercise>
+
+    <exercise type="pull">
+        <name>
+            <en>Bicep Curls</en>
+            <ru>Сгибания на бицепс</ru>
+        </name>
+        <desc>
+            <en>Isolation exercise for biceps. Using dumbbells or barbell, curl weight up while keeping elbows stationary.</en>
+            <ru>Изолирующее упражнение на бицепс. Используя гантели или штангу, сгибайте вес вверх, сохраняя локти неподвижными.</ru>
+        </desc>
+        <image>images\pull\Biceps.jpg</image>
+    </exercise>
+
+    <exercise type="legs">
+        <name>
+            <en>Barbell Squat</en>
+            <ru>Приседания со штангой</ru>
+        </name>
+        <desc>
+            <en>The king of leg exercises. Place barbell on upper back, squat down until thighs parallel to floor, then drive back up.</en>
+            <ru>Король упражнений для ног. Поместите штангу на верх спины, приседайте до параллели бедер с полом, затем мощно поднимитесь.</ru>
+        </desc>
+        <image>images/legs/squat.jpg</image>
+    </exercise>
+
+    <exercise type="legs">
+        <name>
+            <en>Deadlift</en>
+            <ru>Становая тяга</ru>
+        </name>
+        <desc>
+            <en>Full-body compound movement. With straight back, lift barbell from floor to standing position. Works entire posterior chain.</en>
+            <ru>Базовое упражнение для всего тела. С прямой спиной поднимите штангу с пола в положение стоя. Работает вся задняя цепь мышц.</ru>
+        </desc>
+        <image>images\legs\Deadlift.webp</image>
+    </exercise>
+
+    <exercise type="legs">
+        <name>
+            <en>Lunges</en>
+            <ru>Выпады</ru>
+        </name>
+        <desc>
+            <en>Unilateral leg exercise. Step forward and lower until both knees are bent at 90 degrees. Strengthens quads and glutes.</en>
+            <ru>Упражнение на одну ногу. Шагните вперед и опуститесь, пока оба колена не согнутся под 90 градусов. Укрепляет квадрицепсы и ягодицы.</ru>
+        </desc>
+        <image>images\legs\lunges.jpg</image>
+    </exercise>
+   
+</exercises>
